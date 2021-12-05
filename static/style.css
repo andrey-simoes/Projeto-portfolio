@@ -16,7 +16,7 @@ html, body{
     width: 300px;
     transition: all ease-in-out 0.5s;
     padding: 0 15px;
-    z-index: auto;
+    z-index: 9999;
 }
 #header .profile img{
     margin: 15px auto;
